@@ -1,5 +1,4 @@
-let numero = parseInt(prompt("ingrese un numero para saber sus elevados"))
-
+let numero = prompt("ingrese un numero para saber sus elevados")
 
 for(let i= 1; i<=10; i++){
 
